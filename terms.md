@@ -1,4 +1,5 @@
 ---
+permalink: /terms/
 title: ClipPilot Terms of Service
 ---
 
@@ -25,7 +26,7 @@ ClipPilot only posts when and how you tell it to: you choose each video, caption
 
 ## 3. TikTok and other services
 
-ClipPilot connects to TikTok through TikTok's official APIs, and uses other services as described in our [Privacy Policy](privacy). Those services are run by other companies under their own terms. We aren't responsible for them, and they can change or limit what ClipPilot is able to do. For example, TikTok decides which visibility options are available and how many posts an account can make each day.
+ClipPilot connects to TikTok through TikTok's official APIs, and uses other services as described in our [Privacy Policy](../privacy/). Those services are run by other companies under their own terms. We aren't responsible for them, and they can change or limit what ClipPilot is able to do. For example, TikTok decides which visibility options are available and how many posts an account can make each day.
 
 ## 4. Scheduled posts
 

@@ -1,4 +1,5 @@
 ---
+permalink: /privacy/
 title: ClipPilot Privacy Policy
 ---
 
